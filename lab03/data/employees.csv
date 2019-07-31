@@ -1,0 +1,24 @@
+employeeNumber,reportsTo,jobTitle
+1002,,President
+1056,1002.0,VP Sales
+1076,1002.0,VP Marketing
+1088,1056.0,Sales Manager (APAC)
+1102,1056.0,Sale Manager (EMEA)
+1143,1056.0,Sales Manager (NA)
+1165,1143.0,Sales Rep
+1166,1143.0,Sales Rep
+1188,1143.0,Sales Rep
+1216,1143.0,Sales Rep
+1286,1143.0,Sales Rep
+1323,1143.0,Sales Rep
+1337,1102.0,Sales Rep
+1370,1102.0,Sales Rep
+1401,1102.0,Sales Rep
+1501,1102.0,Sales Rep
+1504,1102.0,Sales Rep
+1611,1088.0,Sales Rep
+1612,1088.0,Sales Rep
+1619,1088.0,Sales Rep
+1621,1056.0,Sales Rep
+1625,1621.0,Sales Rep
+1702,1102.0,Sales Rep
